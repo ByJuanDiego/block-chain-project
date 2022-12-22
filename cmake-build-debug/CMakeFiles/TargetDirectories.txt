@@ -1,0 +1,3 @@
+/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/CMakeFiles/block_chain.dir

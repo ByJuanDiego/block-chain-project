@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="block_chain"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="block_chain">
+				<Option output="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/block_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/."/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/structures"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/functions"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/base"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/ui"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/test"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/utils"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 block_chain"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="block_chain/fast">
+				<Option output="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/block_chain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/."/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/structures"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/functions"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/base"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/ui"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/test"/>
+					<Add directory="/home/juan-diego/UTEC/CS2023aed/block-chain/utils"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 block_chain/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/juan-diego/UTEC/CS2023aed/block-chain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/base/Blockchain.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/base/block.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/base/transaction.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/functions/hashFunctions.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/main.cpp">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/structures/BPlusTree.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/structures/DoubleList.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/structures/Hash.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/structures/Heap.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/structures/nodes.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/ui/button.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/ui/gui.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/ui/input.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/ui/password.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/ui/word.h">
+			<Option target="block_chain"/>
+		</Unit>
+		<Unit filename="/home/juan-diego/UTEC/CS2023aed/block-chain/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

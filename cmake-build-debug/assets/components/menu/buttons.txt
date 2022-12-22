@@ -1,0 +1,4 @@
+x, y, largo, alto, color, texto, text_size, text_color
+540 270 200 50 blue Register 30 yellow
+540 335 200 50 blue Login 30 yellow
+540 400 200 50 blue Close 30 yellow

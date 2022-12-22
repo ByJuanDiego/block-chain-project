@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/block_chain.dir/main.cpp.o  -o block_chain  -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 
